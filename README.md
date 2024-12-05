@@ -22,7 +22,7 @@ It's an online seafood store. When people visit their website, they're on a jour
 
 #### **Analytical Approach Applied:**
 
-##### - Leveraged SQL to manipulate data and generate summaries at the page, product, category, and user-visit levels.  
-##### - Evaluated campaign performance by creating a detailed table with key metrics such as `user_id`, `visit_start_time`, `page_views`, `cart_adds`, `purchase_flag`, `campaign_name`, `impression_count`, `click_count`, and `cart_products` (a comma-separated, order-sorted list of products added to the cart).  
-##### - Conducted deeper analysis using SQL to identify patterns and extract actionable insights.  
-##### - Enhanced the analysis with Excel for further exploration and presented the findings through an interactive Power BI dashboard.  
+##### * Leveraged SQL to manipulate data and generate summaries at the page, product, category, and user-visit levels.  
+##### * Evaluated campaign performance by creating a detailed table with key metrics such as `user_id`, `visit_start_time`, `page_views`, `cart_adds`, `purchase_flag`, `campaign_name`, `impression_count`, `click_count`, and `cart_products` (a comma-separated, order-sorted list of products added to the cart).  
+##### * Conducted deeper analysis using SQL to identify patterns and extract actionable insights.  
+##### * Enhanced the analysis with Excel for further exploration and presented the findings through an interactive Power BI dashboard.  
